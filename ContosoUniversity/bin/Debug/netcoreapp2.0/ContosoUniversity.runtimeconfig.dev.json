@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ckuiper/.dotnet/store/|arch|/|tfm|",
+      "/Users/ckuiper/.nuget/packages"
+    ]
+  }
+}
