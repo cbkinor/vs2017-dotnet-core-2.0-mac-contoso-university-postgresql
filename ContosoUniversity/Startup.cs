@@ -22,6 +22,7 @@ namespace ContosoUniversity
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddEntityFrameworkNpgsql().AddDbContext<MyWebApiContext>(opt => opt.UseNpgsql(Configuration.GetConnectionString("MyWebApiConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
