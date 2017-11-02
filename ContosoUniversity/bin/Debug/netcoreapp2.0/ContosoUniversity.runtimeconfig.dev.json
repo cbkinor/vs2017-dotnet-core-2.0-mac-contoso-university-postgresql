@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "/Users/ckuiper/.dotnet/store/|arch|/|tfm|",
-      "/Users/ckuiper/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "/Users/ckuiper/.nuget/packages"
     ]
   }
 }

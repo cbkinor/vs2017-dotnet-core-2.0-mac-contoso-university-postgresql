@@ -3,9 +3,9 @@
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.runtimeconfig.dev.json
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.dll
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.pdb
-/Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.csprojResolveAssemblyReference.cache
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.csproj.CoreCompileInputs.cache
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.AssemblyInfoInputs.cache
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.AssemblyInfo.cs
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.dll
 /Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.pdb
+/Users/ckuiper/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.csprojResolveAssemblyReference.cache
