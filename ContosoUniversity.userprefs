@@ -1,12 +1,9 @@
 ﻿<Properties StartupConfiguration="{0779BC01-119E-46A6-9AFE-FF9BC8BD99B8}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Controllers/StudentsController.cs">
     <Files>
-      <File FileName="ContosoUniversity/ContosoUniversity.csproj" Line="24" Column="1" />
-      <File FileName="ContosoUniversity/Startup.cs" Line="27" Column="100" />
-      <File FileName="ContosoUniversity/appsettings.json" Line="19" Column="27" />
-      <File FileName="ContosoUniversity/Program.cs" Line="51" Column="10" />
-      <File FileName="ContosoUniversity/Properties/launchSettings.json" Line="24" Column="47" />
+      <File FileName="ContosoUniversity/Controllers/StudentsController.cs" Line="60" Column="35" />
+      <File FileName="ContosoUniversity/Views/Students/Create.cshtml" Line="24" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
