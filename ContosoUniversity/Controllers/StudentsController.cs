@@ -20,17 +20,18 @@ namespace ContosoUniversity.Controllers
         }
 
         // GET: Students
-        public async Task<IActionResult> Index(string sortOrder, string searchSring)
+        public async Task<IActionResult> Index(string sortOrder, string searchString)
         {
             ViewData["NameSortParm"] = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewData["DateSortParm"] = sortOrder == "Date" ? "date_desc" : "Date";
-            ViewData["CurrentFilter"] = searchSring;
+            ViewData["CurrentFilter"] = searchString;
 
             var students = from s in _context.Students
                            select s;
-            if (!String.IsNullOrEmpty(searchSring))
+            if (!String.IsNullOrEmpty(searchString))
             {
-                students = students.Where(s => s.LastName.Contains(searchSring) || s.FirstMidName.Contains(searchSring));
+                students = students.Where(s => s.LastName.Contains(searchString)
+                                       || s.FirstMidName.Contains(searchString));
             }
             switch (sortOrder)
             {
