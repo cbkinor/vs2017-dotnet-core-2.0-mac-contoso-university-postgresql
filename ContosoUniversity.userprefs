@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{0779BC01-119E-46A6-9AFE-FF9BC8BD99B8}|Default">
   <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/PaginatedList.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/Views/Home/About.cshtml">
     <Files>
-      <File FileName="ContosoUniversity/Controllers/StudentsController.cs" Line="41" Column="29" />
-      <File FileName="ContosoUniversity/Views/Students/Create.cshtml" Line="24" Column="19" />
-      <File FileName="ContosoUniversity/Views/Students/Delete.cshtml" Line="9" Column="47" />
-      <File FileName="ContosoUniversity/Views/Students/Index.cshtml" Line="51" Column="10" />
-      <File FileName="ContosoUniversity/PaginatedList.cs" Line="45" Column="2" />
+      <File FileName="ContosoUniversity/Controllers/StudentsController.cs" Line="30" Column="9" />
+      <File FileName="ContosoUniversity/Views/Students/Index.cshtml" Line="24" Column="12" />
+      <File FileName="ContosoUniversity/Models/SchoolViewModels/EnrollmentDateGroup.cs" Line="10" Column="9" />
+      <File FileName="ContosoUniversity/Controllers/HomeController.cs" Line="40" Column="9" />
+      <File FileName="ContosoUniversity/Views/Home/About.cshtml" Line="23" Column="67" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
