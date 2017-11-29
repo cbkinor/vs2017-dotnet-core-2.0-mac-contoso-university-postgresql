@@ -20,5 +20,11 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Models\SchoolViewModels\" />
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Migrations\SchoolContextModelSnapshot.cs" />
+    <Compile Remove="Migrations\20171101135511_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20171101135511_InitialCreate.cs" />
   </ItemGroup>
 </Project>
